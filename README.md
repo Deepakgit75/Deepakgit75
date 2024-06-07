@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🏫 Pursuing a B.Tech in Computer Science Engineering from IPS Academy, Indore, with a CGPA of 8.77 (2020-2024).<br>📅 Proficient in Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), and full-stack web development using the MERN stack.<br>🤹 Skilled in C, C++, Python, Java, and JavaScript.<br>🧑‍💻 Developed an Ed-tech platform using the MERN stack and a cryptocurrency application using React, REST APIs, and Redux.<br>🔭 Solved 607 problems on CodeStudio and 93 problems on LeetCode.<br>🥼 Experienced with Visual Studio, Postman, HTML, CSS, Node.js, Express, React, Redux, MongoDB, Mongoose, Tailwind CSS, and JSON.
+🏫 Pursuing a B.Tech in Computer Science Engineering from IPS Academy, Indore, with a CGPA of 8.77 (2020-2024).<br>📅 Proficient in Data Structures and Algorithms (DSA), OOPs, and full-stack web development using the MERN stack.<br>🤹 Skilled in C, C++, Python, Java, and JavaScript.<br>🧑‍💻 Developed an Ed-tech platform using the MERN stack and a cryptocurrency application using React, REST APIs, and Redux.<br>🔭 Solved 607 problems on CodeStudio and 93 problems on LeetCode.<br>🥼 Experienced with Visual Studio, Postman, HTML, CSS, Node.js, Express, React, Redux, MongoDB, Mongoose, Tailwind CSS, and JSON.
 
 
 ## 🌐 Socials:
